@@ -4,6 +4,7 @@
   "description": "A jekyll website for photographer cum developer",
   "main": "npmfile.js",
   "scripts": {
+    "gulp": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
